@@ -1,6 +1,6 @@
 # Hi my name is ozibo patricia
 
-![]()
+![](pivot2.PNG)
 
 ## ""I am a Data Analyst""
 
